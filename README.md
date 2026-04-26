@@ -13,7 +13,15 @@
         />
 </h1>
 
-Welcome to my profile! I'm a results-driven and enthusiastic full-stack engineer with a deep passion for crafting cutting-edge web applications using the MERN stack. With a strong foundation in JavaScript and a keen eye for detail, I thrive on solving complex challenges to deliver robust and user-centric solutions. Beyond MERN, I have honed my skills in other front-end technologies like React Native, ensuring dynamic and intuitive interfaces for mobile applications. On the back-end, my expertise in Node.js and Express.js enables me to architect efficient server-side solutions. My insatiable curiosity and eagerness to embrace emerging technologies drive me to stay at the forefront of the ever-evolving tech landscape. I continuously seek innovative ways to optimize processes, enhance performance, and elevate user satisfaction. 
+I work at the intersection of:
+
+Product and delivery in regulated fintech: I currently leading agile delivery for Dispute and Settlement (issuer and acquirer flows) in end-to-end payment infrastructure and payment service provider (PSP) environments. Previously across three payment products: POS, Terminal Management, and InstantPay.
+
+Operating systems: I design information architecture, decision logs, governance frameworks, automation maturity models. The kind of structure that lets distributed teams scale without losing context.
+
+Software Engineering: Node.js, JavaScript, REST APIs, n8n. I'm fluent in code, debug payloads, and shorten the distance between a vague requirement and a clean ticket.
+
+Community contribution. I contribute publicly to the Gumloop builder community, including a Community Ops Agent designed to help community managers reduce manual triage, archive decisions, and surface patterns from member conversations.
 
 Let's Connect 📥:
 <p><a href="mailto:angieobiesie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
