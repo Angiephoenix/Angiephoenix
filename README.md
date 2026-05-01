@@ -48,7 +48,6 @@ Let's Connect 📥:
 
 ---
 <br>
-<em><b> Please note that the 'Top Languages' metric solely represents the prevalence of languages within my public code repositories and does not serve as an accurate indicator of my proficiency or expertise level especially in underrepresented languages. 🤝 </b></em>
 
 
 
