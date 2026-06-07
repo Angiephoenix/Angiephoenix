@@ -15,8 +15,9 @@
 
 **I work at the intersection of:**
 * **Product and delivery in regulated fintech:** I am currently leading agile delivery for Dispute and Settlement (issuer and acquirer flows) in end-to-end payment infrastructure and payment service provider (PSP) environments. Previously across three payment products: POS, Terminal Management, and InstantPay.
-* **Operating systems:** I design information architecture, decision logs, governance frameworks, automation maturity models. The kind of structure that lets distributed teams scale without losing context.
-* **Software Engineering:** Node.js, JavaScript, REST APIs, n8n. I'm fluent in code, debug payloads, and shorten the distance between a vague requirement and a clean ticket.
+* **Product analytics and instrumentation:** I work hands-on with PostHog across funnels, session replay, and error tracking, including agents built on its MCP server that run product health checks and triage live errors.
+* **Operating systems:** I design information architecture, decision logs, governance frameworks, and automation maturity models. The kind of structure that lets distributed teams scale without losing context.
+* **Software Engineering:** Node.js, JavaScript, REST APIs, n8n. I read and write code, debug payloads, and shorten the distance between a vague requirement and a clean ticket.
 * **Community contribution:** I contribute publicly to the [Gumloop](https://www.gumloop.com/) builder community, including a Community Ops Agent designed to help community managers reduce manual triage, archive decisions, and surface patterns from member conversations.
 
 Let's Connect 📥:
