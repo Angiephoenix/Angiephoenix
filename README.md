@@ -19,7 +19,6 @@
 * **Product engineering.** Node.js, JavaScript, REST APIs. I read and write code, debug payloads, and ship small fixes, the kind that stop a category of tickets at the source.
 * **Product analytics and instrumentation.** PostHog across funnels, session replay, and error tracking. I find where users get stuck and where conversion leaks, then raise and ship the fix.
 * **Operating systems and process.** Information architecture, decision logs, governance, automation maturity models. The structure that lets a small distributed team handle more without losing context.
-* **Software Engineering:** Node.js, JavaScript, REST APIs, n8n. I read and write code, debug payloads, and shorten the distance between a vague requirement and a clean ticket.
 * **Community contribution.** Support Lead for a 6,000+ member nonprofit community and Gumloop Ambassador. Owning problems and researching fast when the answer isn't obvious. 
 
 Let's Connect 📥:
