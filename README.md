@@ -14,11 +14,13 @@
 </h1>
 
 **I work at the intersection of:**
-* **Product and delivery in regulated fintech:** I am currently leading agile delivery for Dispute and Settlement (issuer and acquirer flows) in end-to-end payment infrastructure and payment service provider (PSP) environments. Previously across three payment products: POS, Terminal Management, and InstantPay.
-* **Product analytics and instrumentation:** I work hands-on with PostHog across funnels, session replay, and error tracking, including agents built on its MCP server that run product health checks and triage live errors.
-* **Operating systems:** I design information architecture, decision logs, governance frameworks, and automation maturity models. The kind of structure that lets distributed teams scale without losing context.
+* **Support operations in regulated fintech.** First point of escalation for integration and transaction failures. I work the cases engineering shouldn't have to, dig through logs and API payloads to root cause, and turn every repeat issue into documentation so it stops coming back.
+* **AI in support workflows.** I build automations that take real work off a support team. Triage AI classifies inbound tickets, pulls the right docs, and drafts context-aware replies (5/5 across 20 test emails). My Product Health Monitor agent runs weekly health checks on PostHog and triages live errors into resolve, suppress, and route.
+* **Product engineering.** Node.js, JavaScript, REST APIs. I read and write code, debug payloads, and ship small fixes, the kind that stop a category of tickets at the source.
+* **Product analytics and instrumentation.** PostHog across funnels, session replay, and error tracking. I find where users get stuck and where conversion leaks, then raise and ship the fix.
+* **Operating systems and process.** Information architecture, decision logs, governance, automation maturity models. The structure that lets a small distributed team handle more without losing context.
 * **Software Engineering:** Node.js, JavaScript, REST APIs, n8n. I read and write code, debug payloads, and shorten the distance between a vague requirement and a clean ticket.
-* **Community contribution:** I contribute publicly to the [Gumloop](https://www.gumloop.com/) builder community, including a Community Ops Agent designed to help community managers reduce manual triage, archive decisions, and surface patterns from member conversations.
+* **Community contribution.** Support Lead for a 6,000+ member nonprofit community and Gumloop Ambassador. Owning problems and researching fast when the answer isn't obvious. 
 
 Let's Connect 📥:
 <p><a href="mailto:angieobiesie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a></p>
